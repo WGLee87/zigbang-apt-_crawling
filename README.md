@@ -14,7 +14,7 @@ geohash
 ## 프로그램 소개
 1. 특정 동이름을 입력하면 해당 동의 아파트 매물 검색
 
-2. 크롤링 해오는 것 : [itemId type	exclusive_type	rent	buildingFloor	itemImages	house_key	lat	lng	vr_status	vr_request_id	itemTitle	agentNo	regDate	regTime	apartmentId	apartmentName	buildingName	roomTypeId	grossAreaName	grossArea	agreementArea	netArea	floorPlan	userNo	agentId	agentName	agentTel	agentUserName	agentPhone	created_at	real_type	itemImage	sectionType	viewType	groupedItemFloor	agreementAreaName	isNew	sales]
+2. 크롤링 해오는 것 : [itemId, type, exclusive_type,	rent,	buildingFloor,	itemImages,	....	groupedItemFloor	agreementAreaName	isNew	sales (총 34개)]
 
 3. 필요한 데이터만 전처리할 필요 있음
 
